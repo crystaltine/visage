@@ -1,0 +1,92 @@
+.body {
+    left: 0%
+    top: 0%
+    width: 100%
+    height: 100%
+    bg_color: #1c232e
+}
+.menubar {
+    top: 0%
+    left: 0%
+    width: 100%
+    height: 1ch
+    bg_color: #131a25
+}
+.menubar_text {
+    y: 0
+    left: 0
+    color: #ef0eff
+}
+
+.panels_container {
+    top: 1ch
+    bottom: 0%
+    left: 0%
+    width: 100%
+}
+.left_pane {
+    top: 0%
+    left: 0%
+    width: 30%
+    height: 100%
+}
+.server_list {
+    top: 0%
+    left: 0%
+    height: 40%
+    bg_color: #191f2a
+}
+.channel_list {
+    top: 40%
+    left: 0%
+    height: 40%
+    bg_color: #191f2a
+}
+.user_info {
+    top: 80%
+    left: 0%
+    height: 20%
+    bg_color: #131a25
+}
+.username_text {
+    y: 1ch
+    left: 1ch
+    color: #1aa7ff
+}
+.user_status {
+    y: 2ch
+    left: 1ch
+    color: #56ff0e
+}
+
+.right_pane {
+    top: 0%
+    left: 30%
+    width: 70%
+    height: 100%
+    bg_color: #1c232e
+}
+.messages_pane {
+    top: 0%
+    bottom: 3ch
+    left: 0%
+    width: 100%
+    bg_color: #1c232e
+}
+.send_container {
+    left: 0%
+    width: 100%
+    top: None
+    bottom: 0%
+    height: 4ch
+    bg_color: #161d27
+}
+.send_container_text {
+    y: 1ch
+    left: 2ch
+    color: #eeeeee
+    bg_color: #1a232d
+    hovered_bg_color: #202b36
+    selected_bg_color: #2a3743
+    width: 20ch
+}
