@@ -34,14 +34,65 @@
     top: 0%
     left: 0%
     height: 40%
+    padding_top: 5%
     bg_color: #191f2a
 }
+.server_text1 {
+    y: 2ch
+    left: 1ch
+    color: yellow
+    bg_color: transparent
+}
+.server_text2 {
+    y: 3ch
+    left: 1ch
+    color: #a29935
+    bg_color: transparent
+}
+
 .channel_list {
-    top: 40%
+    top: 30%
     left: 0%
     height: 40%
     bg_color: #191f2a
 }
+
+.channel_text1 {
+    y: 2ch
+    left: 1ch
+    color: yellow
+    bg_color: transparent
+}
+
+.channel_text2 {
+    y: 3ch
+    left: 1ch
+    color: #a29935
+    bg_color: transparent
+}
+
+.voice_chat_list {
+    top: 50%
+    left: 0%
+    height: 40%
+    bg_color: #191f2a
+}
+
+.voice_chat_text1 {
+    y: 2ch
+    left: 1ch
+    color: #a29935
+    bg_color: transparent
+}
+
+.voice_chat_text2{
+    y: 3ch
+    left: 1ch
+    color: #a29935
+    bg_color: transparent
+}
+
+
 .user_info {
     top: 80%
     left: 0%

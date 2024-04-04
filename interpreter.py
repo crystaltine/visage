@@ -50,7 +50,7 @@ def read_vis(relative_filepath: str) -> None:
     Also, the root tag can be any element. Most commonly, it's <div>.
     """
     code = ""
-    with open(relative_filepath, "r") as f:
+    with open(relative_filepath, "r", encoding="utf-8") as f:
         code = f.read()
         f.close()
         

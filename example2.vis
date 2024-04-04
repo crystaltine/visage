@@ -6,10 +6,21 @@
         <div id="left_pane" class_str="left_pane">
             <div id="server_list" class_str="server_list">
                 <text class_str="server_text" text="Servers"></>
+                <text class_str="server_text1" text="🔥 Test Server 1"></>
+                <text class_str="server_text2" text="⚡ Test Server 2"></>
             </>
             <div id="channel_list" class_str="channel_list">
                 <text class_str="channel_text" text="Channels"></>
+                <text class_str="channel_text1" text="# Channel 1"></>
+                <text class_str="channel_text2" text="# Channel 2"></>
             </>
+            <div id="voice_chat_list" class_str="voice_chat_list">
+                <text class_str="voice_chat_text" text="Voice Chats"></>
+                <text class_str="voice_chat_text1" text="🔊 Voice Chat 1"></>
+                <text class_str="voice_chat_text2" text="🔊 Voice Chat 2"></>
+            </>
+
+
             <div id="user_info" class_str="user_info">
                 <text class_str="username_text" text="[*] crystaltine"></>
                 <text class_str="user_status" text="# online, visible"></>
